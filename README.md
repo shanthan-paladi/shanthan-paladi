@@ -95,7 +95,7 @@ Built an interactive billing app in Python (Tkinter) with a PostgreSQL backend, 
 Bharat Institute of Engineering and Technology, Hyderabad · 2022
 
 ---
-
+<!-- 
 ### 📊 GitHub Stats
 
 <!-- <p align="center">
@@ -113,10 +113,10 @@ Bharat Institute of Engineering and Technology, Hyderabad · 2022
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shanthan-paladi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> 
 
 ---
-
+-->
 ### 🤝 Connect with Me
 
 <p align="left">
