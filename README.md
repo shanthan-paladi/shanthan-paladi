@@ -98,13 +98,21 @@ Bharat Institute of Engineering and Technology, Hyderabad · 2022
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shanthan-paladi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanthan-paladi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanthan-paladi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shanthan-paladi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanthan-paladi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shanthan-paladi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
