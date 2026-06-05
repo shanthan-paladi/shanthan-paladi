@@ -14,6 +14,7 @@
 - 🔹 Experienced in modernizing legacy ETL systems into **cloud-native platforms** and implementing **Medallion (Bronze–Silver–Gold) Lakehouse architectures**.
 - 🔹 I enjoy turning messy, distributed data into clean, governed, analytics-ready datasets that drive business decisions.
 - 📍 Based in **Hyderabad, India**.
+- 📞 contact: +91 9705968049
 - 📫 Reach me at **shanthan811@gmail.com**
 
 ---
