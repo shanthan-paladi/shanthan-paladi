@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paladi Shanthan Kumar</h1>
 <h3 align="center">Data Engineer | Azure | Microsoft Fabric | Databricks | PySpark</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shanthan-paladi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 ---
 
