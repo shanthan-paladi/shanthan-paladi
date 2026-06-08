@@ -16,6 +16,7 @@
 - 📍 Based in **Hyderabad, India**.
 - 📞 contact: +91 9705968049
 - 📫 Reach me at **shanthan811@gmail.com**
+-     Portfolio: https://shanthan-paladi.github.io/
 
 ---
 
